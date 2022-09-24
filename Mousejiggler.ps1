@@ -1,5 +1,5 @@
 # MouseJiggler Powershell Script
-# Written by AndrewDavis 
+# Written by AnoshitoBanerjee
 
 Clear-Host
 Echo "Keep-alive with Scroll Lock..."
